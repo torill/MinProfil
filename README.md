@@ -1,4 +1,4 @@
 MinProfil
 =========
 
-Wireframes for kysset.no
+Wireframes for min profil
